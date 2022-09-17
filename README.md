@@ -10,7 +10,7 @@ By
 ADITYA MAJUMDAR
 
 
-Screenshots of the website :-
+**Screenshots of the website :- -**
 
 <img width="1424" alt="Screenshot 2022-09-16 at 9 40 15 PM" src="https://user-images.githubusercontent.com/90856119/190869096-0540848f-1662-41b4-b755-d113814ec55c.png">
 
