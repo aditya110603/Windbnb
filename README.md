@@ -6,6 +6,7 @@ GDSC SRM Technical Domain Task - Frontend - Windbnb
 This project was bootstrapped with Create React App.
 This is an Airbnb clone made using React library .
 
+
 By
 ADITYA MAJUMDAR
 
