@@ -1,13 +1,23 @@
 {
   "files": {
-    "main.css": "/Windbnb/static/css/main.16001690.css",
-    "main.js": "/Windbnb/static/js/main.f74f41c2.js",
-    "index.html": "/Windbnb/index.html",
-    "main.16001690.css.map": "/Windbnb/static/css/main.16001690.css.map",
-    "main.f74f41c2.js.map": "/Windbnb/static/js/main.f74f41c2.js.map"
+    "main.css": "/Crypto-Dashboard/static/css/main.deb4d580.chunk.css",
+    "main.js": "/Crypto-Dashboard/static/js/main.12fef0ec.chunk.js",
+    "main.js.map": "/Crypto-Dashboard/static/js/main.12fef0ec.chunk.js.map",
+    "runtime-main.js": "/Crypto-Dashboard/static/js/runtime-main.7e752553.js",
+    "runtime-main.js.map": "/Crypto-Dashboard/static/js/runtime-main.7e752553.js.map",
+    "static/css/2.cc57a610.chunk.css": "/Crypto-Dashboard/static/css/2.cc57a610.chunk.css",
+    "static/js/2.d15dd2ad.chunk.js": "/Crypto-Dashboard/static/js/2.d15dd2ad.chunk.js",
+    "static/js/2.d15dd2ad.chunk.js.map": "/Crypto-Dashboard/static/js/2.d15dd2ad.chunk.js.map",
+    "index.html": "/Crypto-Dashboard/index.html",
+    "static/css/2.cc57a610.chunk.css.map": "/Crypto-Dashboard/static/css/2.cc57a610.chunk.css.map",
+    "static/css/main.deb4d580.chunk.css.map": "/Crypto-Dashboard/static/css/main.deb4d580.chunk.css.map",
+    "static/js/2.d15dd2ad.chunk.js.LICENSE.txt": "/Crypto-Dashboard/static/js/2.d15dd2ad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/css/main.16001690.css",
-    "static/js/main.f74f41c2.js"
+    "static/js/runtime-main.7e752553.js",
+    "static/css/2.cc57a610.chunk.css",
+    "static/js/2.d15dd2ad.chunk.js",
+    "static/css/main.deb4d580.chunk.css",
+    "static/js/main.12fef0ec.chunk.js"
   ]
 }
