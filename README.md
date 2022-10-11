@@ -1,6 +1,6 @@
 # Windbnb
 
-GDSC SRM Technical Domain Task - Frontend - Windbnb 
+Clone of the popular online lodging website Airbnb made using ReactJs .
 
 #### Made with 🔥
 ##### By ADITYA MAJUMDAR
